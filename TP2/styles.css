@@ -1,0 +1,21 @@
+.main{
+    background-color: turquoise;
+}
+
+.logo{
+    width: 150px;
+}
+.container{
+    display: grid inline-grid;
+}
+.carre{
+    width: 100px;
+    height: 50px;
+    
+}
+.main2{
+    background-color: rgb(26, 129, 160);
+}
+.main3{
+    background-color: rgb(88, 140, 235);
+}
